@@ -1,0 +1,14 @@
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\Store.Data.dll.config
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\Store.Data.dll
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\Store.Data.pdb
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\EntityFramework.dll
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\Store.Model.dll
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\Store.Model.pdb
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\EntityFramework.xml
+E:\git\repos\Store.Web\Store.Web\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\git\repos\Store.Web\Store.Web\Store.Data\obj\Debug\Store.Data.csprojAssemblyReference.cache
+E:\git\repos\Store.Web\Store.Web\Store.Data\obj\Debug\Store.Data.csproj.CoreCompileInputs.cache
+E:\git\repos\Store.Web\Store.Web\Store.Data\obj\Debug\Store.Data.csproj.CopyComplete
+E:\git\repos\Store.Web\Store.Web\Store.Data\obj\Debug\Store.Data.dll
+E:\git\repos\Store.Web\Store.Web\Store.Data\obj\Debug\Store.Data.pdb
