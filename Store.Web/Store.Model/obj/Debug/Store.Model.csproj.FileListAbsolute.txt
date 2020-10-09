@@ -1,6 +1,0 @@
-E:\git\repos\Store.Web\Store.Web\Store.Model\bin\Debug\Store.Model.dll
-E:\git\repos\Store.Web\Store.Web\Store.Model\bin\Debug\Store.Model.pdb
-E:\git\repos\Store.Web\Store.Web\Store.Model\obj\Debug\Store.Model.csprojAssemblyReference.cache
-E:\git\repos\Store.Web\Store.Web\Store.Model\obj\Debug\Store.Model.csproj.CoreCompileInputs.cache
-E:\git\repos\Store.Web\Store.Web\Store.Model\obj\Debug\Store.Model.dll
-E:\git\repos\Store.Web\Store.Web\Store.Model\obj\Debug\Store.Model.pdb

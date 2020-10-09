@@ -9,6 +9,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+Store.Data/bin
+Store.Data/obj
+Store.Model/bin
+Store.Model/obj
 
 # Umbraco
 App_Data/
